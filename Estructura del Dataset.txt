@@ -1,0 +1,23 @@
+Field Number;Field Name;Variable Kind;Additional Tags
+1;titleValue;Continuous Numerical;Single Value
+2;colorMode;Categorical;Single Value
+3;qualifyingSystem;Categorical;Single Value
+4;aspectRatio;Continuous Numerical;Single Value
+5;releaseYear;Discrete Numerical;Single Value
+6;budget;Continuous Numerical;Single Value
+7;movieFacebookNumberLikes;Discrete Numerical;Single Value
+8;numberCriticsForReview;Discrete Numerical;Single Value
+9;numberUsersReviews;Discrete Numerical;Single Value
+10;numberUsersVotes;Discrete Numerical;Single Value
+11;numberFacesInPoster;Discrete Numerical;Single Value
+12;duration;Discrete Numerical;Single Value
+13;directorFacebookNumberLikes;Discrete Numerical;Single Value
+14;actor1FacebookNumberLikes;Discrete Numerical;Single Value
+15;actor2FacebookNumberLikes;Discrete Numerical;Single Value
+16;actor3FacebookNumberLikes;Discrete Numerical;Single Value
+17;fullCastingFacebookNumberLikes;Discrete Numerical;Single Value
+18;grossLevelValue;Continuous Numerical;Single Value
+19;genres;Categorical;Multiple Value
+20;country;Categorical;Single Value
+21;language;Categorical;Single Value
+22;correctMovieExpectations;Categorical;Single Value
